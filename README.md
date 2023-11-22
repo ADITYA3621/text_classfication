@@ -31,5 +31,23 @@ run the application using either run icon on jupyter notebook or by giving path 
 #evaluation report
 The evaluation report will be stored in the "scrapped_data" folder as evaluation_report.csv.
 
+# screenshots
+![image](https://github.com/ADITYA3621/text_classfication/assets/98408123/035847ee-392d-4dd3-9827-dfc89e347470)
+![image](https://github.com/ADITYA3621/text_classfication/assets/98408123/39e3c1b1-1b93-4e07-80ff-ba7023972723)
+![image](https://github.com/ADITYA3621/text_classfication/assets/98408123/93d1d36d-17bc-4729-a520-d3b3cf8759bd)
+![image](https://github.com/ADITYA3621/text_classfication/assets/98408123/105917f3-3d3c-4378-b9c8-c957b49fc4ed)
+![image](https://github.com/ADITYA3621/text_classfication/assets/98408123/f06defc4-f760-46e9-8c6a-1a767d5b7ada)
+![image](https://github.com/ADITYA3621/text_classfication/assets/98408123/d3adc587-de4c-47f8-a94b-907bf5337f11)
+![image](https://github.com/ADITYA3621/text_classfication/assets/98408123/fd1f81a5-761c-4829-afeb-76825472c0ef)
+![image](https://github.com/ADITYA3621/text_classfication/assets/98408123/8098a8bf-d1c3-4e9b-865e-2dbaadedfe98)
+
+
+
+
+
+
+
+
+
 
 
