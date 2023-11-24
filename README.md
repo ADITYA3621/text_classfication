@@ -41,8 +41,11 @@ The evaluation report will be stored in the "scrapped_data" folder as evaluation
 ![image](https://github.com/ADITYA3621/text_classfication/assets/98408123/fd1f81a5-761c-4829-afeb-76825472c0ef)
 ![image](https://github.com/ADITYA3621/text_classfication/assets/98408123/8098a8bf-d1c3-4e9b-865e-2dbaadedfe98)
 
-#future work
-Can use data augmentation to increase training data size
+# future work
+1. Can we use data augmentation to increase training data size?
+
+# instructions
+1. works only when the webpage has at least 100 articles. 
 
 
 
